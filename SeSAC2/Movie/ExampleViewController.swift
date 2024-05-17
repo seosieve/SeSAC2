@@ -12,8 +12,6 @@ class ExampleViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         print("aa")
-        print("aa")
-        print("aa")
         
     }
 
